@@ -1,0 +1,22 @@
+(Arg) Kenshi Launcher – License and Terms of Use
+Copyright (c) 2026 Jan Hepp / ArganinyCZSK. All rights reserved.
+
+1. OWNERSHIP AND RESTRICTIONS
+This program is proprietary software owned by Jan Hepp / ArganinyCZSK ("the Owner").
+Without the prior written permission of the Owner you may NOT:
+
+modify, edit, decompile, disassemble or create derivative works of the program;
+redistribute, publish, share, sublicense or otherwise make the program available to third parties;
+sell, rent, lease or use the program for any commercial purpose.
+
+2. NO WARRANTY, NO LIABILITY
+The program is purely EXPERIMENTAL and is provided "AS IS", without any warranty of any kind, express or implied. The Owner accepts NO responsibility or liability for any damage to the game, game saves, mods, the operating system, hardware or any other data or property that may result from using or being unable to use the program, and no such damage will be compensated. You use the program entirely at your own risk. Always keep backups of your saves.
+
+3. DATA AND CONSENT
+By downloading, installing or using the program, the user agrees that data obtained while using the program (for example installed and active mods, load orders, profiles, play time and usage of features) may be used to provide more accurate content recommendations and to optimise the further operation of the application for the user.
+
+4. THIRD PARTIES
+Kenshi is a trademark of Lo-Fi Games. Steam and the Steam Workshop are trademarks of Valve Corporation. This program is not affiliated with or endorsed by Lo-Fi Games or Valve. Workshop content belongs to its respective authors.
+
+5. ACCEPTANCE
+If you do not agree with these terms, do not download, install or use the program.
